@@ -2,5 +2,5 @@
 layout:slide
 title:"Welcome to our second slide!"
 ---
-Your v text
+**Your joke is not laughable!** :+1:
 Use the left arrow to go back!
